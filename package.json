@@ -1,6 +1,6 @@
 {
   "name": "cli_based_guessing_number_game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is CLI based game in which computer generate a random number and user can guess it.",
   "main": "index.js",
   "type": "module",

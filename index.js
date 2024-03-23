@@ -3,7 +3,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 let randomNumber = Math.floor(Math.random() * 50 + 1);
-console.log(randomNumber); //used for observation of flow(TESTING PURPOSE FOR CONDITIONS MATCH OR NOT)
+//console.log(randomNumber);//used for observation of flow(TESTING PURPOSE FOR CONDITIONS MATCH OR NOT)
 const answers = await inquirer.prompt([{
         name: "GuessingNumber",
         type: "number",
